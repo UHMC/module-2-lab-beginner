@@ -1,7 +1,7 @@
 # Module 2 - Beginner Lab: Bitcoin Mining and Consensus
 
 ## Background
-Bitcoin is not the first digital currency, but it is the first to use what is now known as Nakamoto Consensus to negate the need for a central transaction-clearing authority. In this lab, we will explore the topic of trustless network consensus.
+Bitcoin is not the first digital currency, but it is the first to use what is now known as Nakamoto Consensus to negate the need for a central transaction-clearing authority. In this lab, we will explore the topic of trustless network consensus. To do so, we will play a game modeled after the famous Byzantine Generals Problem. The goal of this game is to try to win a reward through unanimous agreement or insidious chaos.
 
 ## Meta Information
 | Attribute | Explanation |
