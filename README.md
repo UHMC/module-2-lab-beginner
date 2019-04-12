@@ -20,7 +20,7 @@ Bitcoin is not the first digital currency, but it is the first to use what is no
 2. Gather the required materials (for each group):
     * _(n-1)^2_ pieces of paper, i.e. 9, 16, 25, or 36 for a group of size 4, 5, 6, or 7, respectively.
     * _n_ writing implements (pens, pencils, markers, etc.)
-    * _2n_ potential rewards.
+    * _2n-2_ potential rewards.
 3. Have each group randomly select a commander; the rest of the players in a group will be lieutenants.
 4. Distribute the materials according to role:
     * Each commander receives _n-1_ pieces of paper and 1 writing implement.
@@ -31,8 +31,8 @@ Bitcoin is not the first digital currency, but it is the first to use what is no
 7. Upon receipt of the commander's choice, each lieutenant will now send a choice via concealed, written message to each of the _n-2_ other lieutenants, the same as their receipt of the commander's choice if loyal, or the opposite if treacherous.
 8. Each lieutenant, regardless of loyalty, now finds which of the choices they received is the majority choice and reports this choice to the reward giver.
 9. Per group, the reward giver now distributes rewards as follows:
-    * If every loyal player's reported choice is the same, all loyal players receive 1 reward; traitors receive nothing.
-    * Otherwise, all traitors receive 2 rewards; loyal players receive nothing.
+    * Loyal players each receive 1 reward.
+    * If any loyal player disagrees with any other loyal player, each traitor receives 2 rewards; otherwise, traitors receive nothing.
 
 ## Credits
 Dr. Debasis Bhattacharya  
