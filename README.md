@@ -12,7 +12,7 @@ Bitcoin is not the first digital currency, but it is the first to use what is no
 | Difficulty | Beginner. |
 | Strengths | This lab provides a hands-on introduction to network consensus. |
 | Weaknesses | The topics may be considered quite abstract, and the actual implementation used in Bitcoin is beyond the scope of this lab. |
-| Dependencies | At least 4 participants to a group. |
+| Dependencies | At least 4 participants to a group, paper, writing implements, and rewards (see [Assignment Instructions](#assignment-instructions) for quantity of each). |
 | Variants | There is an intermediate version of this lab which covers more technical aspects (signing, fault tolerance with reduced group size). |
 
 ## Assignment Instructions
