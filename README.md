@@ -39,5 +39,4 @@ Dr. Debasis Bhattacharya
 Mario Canul  
 Saxon Knight  
 https://github.com/bitcoinbook/bitcoinbook  
-The Byzantine Generals Problem
-    Leslie Lamport, Robert Shostak, and Marshall Pease
+The Byzantine Generals Problem - Leslie Lamport, Robert Shostak, and Marshall Pease
