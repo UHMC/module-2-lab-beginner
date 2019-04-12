@@ -25,10 +25,10 @@ Bitcoin is not the first digital currency, but it is the first to use what is no
 4. Distribute the materials according to role:
     * Each commander receives _n-1_ pieces of paper and 1 writing implement.
     * Each lieutenant receives _n-2_ pieces of paper and 1 writing implement.
-5. Let each player (regardless of role) now decide secretly if they are loyal or treacherous, and register this status with only the reward giver (lab proctor).
+5. Let each player (regardless of role) now decide secretly if they are loyal or treacherous and register this status with only the reward giver (lab proctor).
     * There is incentive both for loyalty (1 reward) and treachery (2 rewards). The incentive for treachery is greater, but with increased risk (0 rewards).
 6. The commander will now decide on a choice: attack, or retreat, and depending on status of loyalty, may send the same or different choice to each of the _n-1_ lieutenants via concealed, written messages.
-7. Upon receipt of the commander's choice, each lieutenant will now send a choice via concealed, written message to each of the _n-2_ other lieutenants, the same as their receipt of the commander's choice if loyal, or the opposite if treacherous.
+7. Upon receipt of the commander's choice, each lieutenant will now send a choice via concealed, written message to each of the _n-2_ other lieutenants: the same as their receipt of the commander's choice if loyal, or the opposite if treacherous.
 8. Each lieutenant, regardless of loyalty, now finds which of the choices they received is the majority choice and reports this choice to the reward giver.
 9. Per group, the reward giver now distributes rewards as follows:
     * Loyal players each receive 1 reward.
