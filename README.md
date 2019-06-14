@@ -15,7 +15,7 @@ Bitcoin is not the first digital currency, but it is the first to use what is no
 | Dependencies | At least 4 participants to a group, paper, writing implements, and rewards (see [Assignment Instructions](#assignment-instructions) for quantity of each). |
 | Variants | There is an intermediate version of this lab which covers more technical aspects (signing, fault tolerance with reduced group size). |
 
-## Assignment Instructions
+## Assignment Instructions (20 Minutes)
 1. Form groups of 4 to 7 players (denoted _n_ for each group).
 2. Gather the required materials (for each group):
     * _(n-1)^2_ pieces of paper, i.e. 9, 16, 25, or 36 for a group of size 4, 5, 6, or 7, respectively.
